@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.healthconnectviewer"
+    namespace = "com.emilio.healthconnectviewer"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.healthconnectviewer"
+        applicationId = "com.emilio.healthconnectviewer"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
