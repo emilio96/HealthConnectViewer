@@ -1,0 +1,20 @@
+*.iml
+.gradle/
+.kotlin/
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# IDE configuration: local to each machine.
+/.idea/
+
+# macOS metadata.
+.DS_Store
+._*
+
+# Release signing secrets.
+/keystore.properties
+*.jks
+*.keystore
